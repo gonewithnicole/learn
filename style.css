@@ -1,1 +1,6 @@
-
+body {
+    background-color: rgb(226, 152, 226);
+    background-image: url(https://pbs.twimg.com/media/CT_XhGIU8AA_wTQ.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px 1000px;
+}
